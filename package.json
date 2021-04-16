@@ -1,0 +1,14 @@
+{
+  "name": "crud101",
+  "version": "1.0.0",
+  "description": "Connect to Firestore and do some CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd H. Albert",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.6.0"
+  }
+}
