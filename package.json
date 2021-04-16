@@ -9,6 +9,7 @@
   "author": "Todd H. Albert",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "firebase-admin": "^9.6.0"
   }
 }
